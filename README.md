@@ -1,6 +1,6 @@
 ## Hi there. I'm Neel 👋
 
-I'm a Computer Science student at McMaster University 🦅  
+I'm a level 3 Computer Science student at McMaster University 🦅  
 I enjoy building software that makes a difference — whether it's helping people, solving real-world problems, or just exploring new tech.
 
 Most of the time, you'll catch me working on things like 💻  
