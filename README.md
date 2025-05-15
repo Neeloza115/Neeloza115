@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there. I'm Neel 👋
 
-<!--
-**Neeloza115/Neeloza115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at McMaster University 🦅  
+I enjoy building software that makes a difference — whether it's helping people, solving real-world problems, or just exploring new tech.
 
-Here are some ideas to get you started:
+Most of the time, you'll catch me working on things like 💻  
+- a tool to support patients and healthcare workflows  
+- [cybersecurity systems](#) that prioritize safety and reliability  
+- my [personal portfolio](#) where I showcase the projects I care about  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not coding, I’m probably out 🏞️  
+- hiking and enjoying nature  
+- learning new skills to grow as a developer and person  
+- or... still coding anyway 😄
+
+Thanks for visiting my GitHub!
