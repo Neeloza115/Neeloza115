@@ -25,17 +25,17 @@ Thanks for visiting my GitHub!
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,javascript,matlab,mysql,bash,latex,elm,assembly)](https://skillicons.dev) <p></p>
 
 #### Libraries & Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,numpy,tailwind,nodejs,django,react,express)](https://skillicons.dev) <p></p>
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,tailwind,nodejs,django,react,express)](https://skillicons.dev) <p></p>
 
 
 #### Tech & Tools  
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,pycharm,anaconda,github,git,vim,notion)](https://skillicons.dev) <p></p>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,pycharm,anaconda,github,git,vim,notion,npm,ubuntu)](https://skillicons.dev) <p></p>
 
 ---
 
 ### 📬 Reach Out
 
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <a href="mailto:ozan1@mcmaster.ca"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/></a>
+  <a href="www.linkedin.com/in/neeloza"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
 </p>
