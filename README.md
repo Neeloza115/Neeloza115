@@ -25,25 +25,11 @@ Thanks for visiting my GitHub!
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,javascript,matlab,mysql,bash,latex,elm,assembly)](https://skillicons.dev) <p></p>
 
 #### Libraries & Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,pycharm,idea,anaconda,github,git,maven,vim,aws,notion,firebase)](https://skillicons.dev) <p></p>
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,tailwind,nodejs,django,react,express)](https://skillicons.dev) <p></p>
 
 
 #### Tech & Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,pycharm,idea,anaconda,github,git,maven,vim,aws,notion,firebase)](https://skillicons.dev) <p></p>
 
 ---
 
