@@ -21,8 +21,7 @@ Thanks for visiting my GitHub!
 
 ### 🛠️ Skills
 
-#### Languages  
-<p align="left">
+#### Languages<p></p>  
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,javascript,matlab,mysql,bash,latex,elm,assembly)](https://skillicons.dev) <p></p>
 
 #### Libraries & Frameworks  
