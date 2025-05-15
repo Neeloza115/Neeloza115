@@ -9,7 +9,7 @@ Most of the time, you'll catch me working on things like 💻
 - my [personal portfolio](https://neeloza115.github.io) where I showcase the projects I care about  
 
 When I’m not coding, I’m probably out 🏞️  
-- hiking and enjoying nature and playing sports  
+- hiking, enjoying nature, tennis and working out 🏋️‍♂️
 - learning new skills to grow as a developer and person  
 - or... still coding anyway 😄
 
