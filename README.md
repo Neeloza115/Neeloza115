@@ -5,8 +5,8 @@ I enjoy building software that makes a difference — whether it's helping peopl
 
 Most of the time, you'll catch me working on things like 💻  
 - a tool to support patients and healthcare workflows  
-- [cybersecurity systems](#) that prioritize safety and reliability  
-- my [personal portfolio](#) where I showcase the projects I care about  
+- cybersecurity systems that prioritize safety and reliability  
+- my [personal portfolio](https://neeloza115.github.io) where I showcase the projects I care about  
 
 When I’m not coding, I’m probably out 🏞️  
 - hiking and enjoying nature  
