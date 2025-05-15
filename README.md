@@ -25,14 +25,8 @@ Thanks for visiting my GitHub!
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,javascript,matlab,mysql,bash,latex,elm,assembly)](https://skillicons.dev) <p></p>
 
 #### Libraries & Frameworks  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,pycharm,idea,anaconda,github,git,maven,vim,aws,notion,firebase)](https://skillicons.dev) <p></p>
+
 
 #### Tech & Tools  
 <p align="left">
