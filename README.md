@@ -25,11 +25,11 @@ Thanks for visiting my GitHub!
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,javascript,matlab,mysql,bash,latex,elm,assembly)](https://skillicons.dev) <p></p>
 
 #### Libraries & Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,tailwind,nodejs,django,react,express)](https://skillicons.dev) <p></p>
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,numpy,tailwind,nodejs,django,react,express)](https://skillicons.dev) <p></p>
 
 
 #### Tech & Tools  
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,pycharm,idea,anaconda,github,git,maven,vim,aws,notion,firebase)](https://skillicons.dev) <p></p>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,pycharm,anaconda,github,git,vim,notion)](https://skillicons.dev) <p></p>
 
 ---
 
