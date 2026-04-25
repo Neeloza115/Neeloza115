@@ -29,7 +29,7 @@ Thanks for visiting my GitHub!
 
 
 #### Tech & Tools  
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,jenkins,kubernetes,dockerpycharm,anaconda,github,git,vim,notion,npm,ubuntu)](https://skillicons.dev) <p></p>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,jenkins,kubernetes,docker,pycharm,anaconda,github,git,vim,notion,npm,ubuntu)](https://skillicons.dev) <p></p>
 
 ---
 
